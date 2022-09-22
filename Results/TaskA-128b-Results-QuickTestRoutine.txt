@@ -1,0 +1,28 @@
+For 10^1 keys, the degree is : 3,2
+	Insert Accesses : 12.71
+	Search Accesses : 14.91
+	Search Accesses : 8.00
+For 10^2 keys, the degree is : 3,2
+	Insert Accesses : 13.42
+	Search Accesses : 22.17
+	Search Accesses : 9.00
+For 10^3 keys, the degree is : 3,2
+	Insert Accesses : 12.43
+	Search Accesses : 21.87
+	Search Accesses : 9.00
+For 10^4 keys, the degree is : 3,2
+	Insert Accesses : 12.29
+	Search Accesses : 19.43
+	Search Accesses : 9.00
+For 10^5 keys, the degree is : 3,2
+	Insert Accesses : 12.70
+	Search Accesses : 18.83
+	Search Accesses : 9.00
+For 10^6 keys, the degree is : 3,2
+	Insert Accesses : 13.02
+	Search Accesses : 18.72
+	Search Accesses : 10.00
+For 10^7 keys, the degree is : 3,2
+	Insert Accesses : 13.04
+	Search Accesses : 21.37
+	Search Accesses : 10.00

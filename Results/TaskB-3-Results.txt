@@ -1,0 +1,80 @@
+	~===================-10^1-===================~
+	 Insert operations : 12.59
+	 Delete operations : 9.41
+	 Search operations : 9.38
+	~===================-10^2-===================~
+	 Insert operations : 15.82
+	 Delete operations : 11.13
+	 Search operations : 11.04
+	~===================-10^3-===================~
+	 Insert operations : 14.83
+	 Delete operations : 11.20
+	 Search operations : 11.47
+	~===================-10^4-===================~
+	 Insert operations : 17.12
+	 Delete operations : 11.72
+	 Search operations : 11.11
+	~===================-10^5-===================~
+	 Insert operations : 16.64
+	 Delete operations : 12.35
+	 Search operations : 11.59
+	~===================-10^6-===================~
+	 Insert operations : 17.37
+	 Delete operations : 12.07
+	 Search operations : 11.26
+	~===================-10^7-===================~
+	 Insert operations : 16.28
+	 Delete operations : 12.48
+	 Search operations : 11.48
+	~===================-10^8-===================~
+	 Insert operations : 15.38
+	 Delete operations : 12.90
+	 Search operations : 12.22
+	~===================-10^9-===================~
+	 Insert operations : 15.58
+	 Delete operations : 13.94
+	 Search operations : 13.11
+	~===================-10^10-===================~
+	 Insert operations : 14.99
+	 Delete operations : 14.20
+	 Search operations : 13.27
+	~===================-10^1-===================~
+	 Insert operations : 12.59
+	 Delete operations : 9.41
+	 Search operations : 9.38
+	~===================-10^2-===================~
+	 Insert operations : 15.82
+	 Delete operations : 11.13
+	 Search operations : 11.04
+	~===================-10^3-===================~
+	 Insert operations : 14.83
+	 Delete operations : 11.20
+	 Search operations : 11.47
+	~===================-10^4-===================~
+	 Insert operations : 17.12
+	 Delete operations : 11.72
+	 Search operations : 11.11
+	~===================-10^5-===================~
+	 Insert operations : 16.64
+	 Delete operations : 12.35
+	 Search operations : 11.59
+	~===================-10^6-===================~
+	 Insert operations : 17.37
+	 Delete operations : 12.07
+	 Search operations : 11.26
+	~===================-10^7-===================~
+	 Insert operations : 16.28
+	 Delete operations : 12.48
+	 Search operations : 11.48
+	~===================-10^8-===================~
+	 Insert operations : 15.38
+	 Delete operations : 12.90
+	 Search operations : 12.22
+	~===================-10^9-===================~
+	 Insert operations : 15.58
+	 Delete operations : 13.94
+	 Search operations : 13.11
+	~===================-10^10-===================~
+	 Insert operations : 14.99
+	 Delete operations : 14.20
+	 Search operations : 13.27
